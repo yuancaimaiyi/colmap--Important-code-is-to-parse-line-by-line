@@ -177,9 +177,7 @@ bool EstimateTriangulation(
 
      基本矩阵的求解从以下公式出发:
 
-$$
-\mathbf{x}^{\prime T} F \mathbf{x}=0
-$$
+\mathbf{x}^{\prime T} F \mathbf{x}=0 
 
   以上公式可以写成包含9个未知数的线性齐次方程,如下:
 
