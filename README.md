@@ -2,8 +2,8 @@
 教你一点点掌握视觉三维重建-colmap 重要代码逐行解析(本人利用下班和周末时间update,so 速度会慢)
 
 个人改进效果如下:
-https://www.bilibili.com/video/BV1Dv411774G   FSBA
-https://www.bilibili.com/video/BV1Sp4y1b76x    fusion gps
+https://www.bilibili.com/video/BV1Dv411774G   FSBA  <br />
+https://www.bilibili.com/video/BV1Sp4y1b76x    fusion gps <br />
 
 
 # 教你一点点掌握视觉三维重建-colmap 重要代码逐行解析
