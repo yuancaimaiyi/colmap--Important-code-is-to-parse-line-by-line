@@ -3,7 +3,7 @@
 
 ## 个人改进效果如下: <br />
 https://www.bilibili.com/video/BV1Dv411774G   FSBA  <br />
-https://www.bilibili.com/video/BV1Sp4y1b76x    faceing-camera motion fusion gps <br />
+https://www.bilibili.com/video/BV1Sp4y1b76x    facing-camera motion fusion gps <br />
 https://www.bilibili.com/video/BV1UK4y127Nb    backward-camera motion  fusion gps <br />
 
 
