@@ -7,7 +7,7 @@ https://www.bilibili.com/video/BV1Sp4y1b76x    facing-camera motion fusion gps <
 https://www.bilibili.com/video/BV1UK4y127Nb    backward-camera motion  fusion gps <br />
 
 ### 2021.5.28
-![contents](https://github.com/yuancaimaiyi/colmap--Important-code-is-to-parse-line-by-line/blob/main/%E4%BB%8E%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89(slam)%E5%92%8C%E6%91%84%E5%BD%B1%E6%B5%8B%E9%87%8F%E4%B8%A4%E4%B8%AA%E7%BB%B4%E5%BA%A6%E8%BF%9B%E8%A1%8Cba%20%E7%AE%97%E6%B3%95%E5%8E%9F%E7%90%86%E6%8E%A8%E5%AF%BC.pdf)
+![contents](https://github.com/yuancaimaiyi/colmap--Important-code-is-to-parse-line-by-line/blob/main/%E4%BB%8E%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89(slam)%E5%92%8C%E6%91%84%E5%BD%B1%E6%B5%8B%E9%87%8F%E4%B8%A4%E4%B8%AA%E7%BB%B4%E5%BA%A6%E8%BF%9B%E8%A1%8Cba%20%E7%AE%97%E6%B3%95%E5%8E%9F%E7%90%86%E6%8E%A8%E5%AF%BC.pdf) 
 
 
 
