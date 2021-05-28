@@ -186,13 +186,13 @@ $$
 
 以上公式可以写成包含9个未知数的线性齐次方程,如下:
 
-            $\begin{aligned}
+          ![$\begin{aligned}
 &\mathbf{u}_{i}^{T} \mathbf{f}=0\\
 &\begin{aligned}
 \mathbf{u}_{i} &=\left[u_{i} u_{i}^{\prime}, v_{i} u_{i}^{\prime}, u_{i}^{\prime}, u_{i} v_{i}^{\prime}, v_{i} v_{i}^{\prime}, v_{i}^{\prime}, u_{i}, v_{i}, 1\right]^{T} \\
 \mathbf{f} &=\left[F_{11}, F_{12}, F_{13}, F_{21}, F_{22}, F_{23}, F_{31}, F_{32}, F_{33}\right]^{T}
 \end{aligned}
-\end{aligned}$
+\end{aligned}$](https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1)
 
   读过MVG的人都知道基本矩阵由于一个尺度不确定和其秩等于2,故其DOF 等于7.所以估计基本矩阵的算法根据不忽略rank-2 constraint 和忽略rank-2 constraint,求解方法可分为7点法和8点法或者more points 法
 
