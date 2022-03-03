@@ -4,7 +4,10 @@
 ## 个人改进效果如下: <br />
 https://www.bilibili.com/video/BV1Dv411774G   FSBA  <br />
 https://www.bilibili.com/video/BV1Sp4y1b76x    facing-camera motion fusion gps <br />
-https://www.bilibili.com/video/BV1UK4y127Nb    backward-camera motion  fusion gps <br />
+https://www.bilibili.com/video/BV1UK4y127Nb    backward-camera motion  fusion gps <br />  
+### 2022.3.3  
+**技术路线图**  
+![Image text]()
 
 ### 2021.5.28
 **从计算机视觉(slam)和摄影测量两个维度进行BA算法原理推导**
